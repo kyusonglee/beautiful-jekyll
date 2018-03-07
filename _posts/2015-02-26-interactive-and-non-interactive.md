@@ -2,7 +2,7 @@
 layout: post
 title: Interactive vs. Non-interactive tests
 subtitle: What template should I select?
-tags: [books, test]
+tags: [interactive, non-interactive]
 ---
 
 The toolkit will include tests that are both interactive and non-interactive. 
