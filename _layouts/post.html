@@ -52,7 +52,11 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
-
+      <ul class="pager blog-pager">
+        <li class="previous">
+          <a href="{{ site.baseurl }}>&larr; Back</a>
+        </li>
+      </ul>
 
       {% if page.comments %}
         <div class="disqus-comments">
