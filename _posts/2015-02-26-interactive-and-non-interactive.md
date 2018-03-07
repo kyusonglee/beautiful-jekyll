@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interactive vs. Non-interactive tests
-subtitle: What template should I select?
+subtitle: What template should I use?
 tags: [interactive, non-interactive]
 ---
 
