@@ -2,8 +2,6 @@
 layout: post
 title: Introduction
 subtitle: What is DialCrowd?
-gh-repo: kyusonglee/kyusonglee.github.io
-gh-badge: [star, fork, follow]
 tags: [introduction]
 ---
 
