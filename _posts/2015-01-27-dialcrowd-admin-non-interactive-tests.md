@@ -16,9 +16,9 @@ We have categorized non-interactive tests into four subcategories: category clas
 **Figure 1**
 Figure 1 shows an overall process of creating a project using DialCrowd:
 
-First, select a type of evaluation: non-interactive testing.
-Second, click the "New Project" button and input the name of a project.
-Third, if you successfully create the "New project", you will see your project in the table. Please click the enter (edit) icon to start. We provide several examples that you can follow.
+- First, select a type of evaluation: non-interactive testing.
+- Second, click the "New Project" button and input the name of a project.
+- Third, if you successfully create the "New project", you will see your project in the table. Please click the enter (edit) icon to start. We provide several examples that you can follow.
 
 In order to setup the category classification, requesters fill out the following information:
 ```
