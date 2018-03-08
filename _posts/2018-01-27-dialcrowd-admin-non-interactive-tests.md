@@ -20,6 +20,8 @@ Figure 1 shows an overall process of creating a project using DialCrowd:
 - Second, click the "New Project" button and input the name of a project.
 - Third, if you successfully create the "New project", you will see your project in the table. Please click the enter (edit) icon to start. We provide several examples that you can follow.
 
+![Image](../img/noninteractive2.png)
+**Figure 2**
 In order to setup the category classification, requesters fill out the following information:
 ```
 ex)
