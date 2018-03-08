@@ -2,6 +2,7 @@
 layout: post
 title: Non-interactive tests
 subtitle: How to setup non-interactive tests in DialCrowd Admin
+tags: [non-interactive-test, dialcrowd admin]
 ---
 
 We have categorized non-interactive tests into four subcategories: category classification, sequence labeling, A/B tests, and Likert scale.
