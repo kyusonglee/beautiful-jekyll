@@ -1,7 +1,7 @@
 ---
 layout: post
-title: DialCrowd Admin - Interactive test 
-subtitle: How to setup Interactive test in DialCrowd Admin
+title: Interactive tests 
+subtitle: How to setup Interactive tests in DialCrowd Admin
 tags: [interactive-test, dialcrowd admin]
 ---
 ### 1) Create a project
