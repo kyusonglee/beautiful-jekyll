@@ -5,17 +5,17 @@ subtitle: How to setup Interactive tests in DialCrowd Admin
 tags: [interactive-test, dialcrowd admin]
 ---
 ### 1) Create a project
-![Image](first.png)
+![Image](../img/interactive1.png)
 **Figure 1**
 
 Figure 1 shows an overall process of creating a project using DialCrowd:
 - First, select a type of evaluation: interactive testing or non-interactive testing.
 - Second, click the "New Project" button and input the name of a project. 
-- Third, if you successfully create the "New project", you will see your project in the table. Please click the pencil (edit) icon to start. 
+- Third, if you successfully create the "New project", you will see your project in the table. Please click the enter icon to start. 
 We provide several examples that you can follow.
 
 ### 2) Project setting 
-![Image](step2.png)
+![Image](../img/interactive2.png)
 **Figure 2**
 
 After creating a project, you need to design the experiment in detail, including a generic introduction, specific instructions, and exit polls. DialCrowd provides the dialog evaluation for a single dialog system and gets feedback ratings (1 to 5). It is also possible to evaluate more than one dialog system and compare them like A/B testing. You can simply add more dialog systems in the DialCrowd Admin panel. It will present the dialog systems in randomized order. For non-interactive testing, JSON data, such as dialog logs, needs to be added. DialCrowd also supports the simple add-on of various types of exit polls like Likert scale, open-ended, and A/B testing and also presents them in randomized order to workers.
@@ -117,7 +117,7 @@ The portal sometimes (very rarely) wants to terminate an ongoing session with yo
 
 ### 4) Testing and Deploying
 
-![Image](step3.png)
+![Image](../img/interactive3.png)
 
 **Figure 3**
 
