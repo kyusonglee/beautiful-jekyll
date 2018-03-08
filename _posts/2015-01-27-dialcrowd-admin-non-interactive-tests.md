@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DialCrowd Admin - Non-interactive tests
+title: Non-interactive tests
 subtitle: How to setup non-interactive tests in DialCrowd Admin
 ---
 
