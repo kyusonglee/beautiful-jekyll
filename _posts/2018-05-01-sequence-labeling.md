@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Non-interactive tests
+title: Sequence Labeling
 subtitle: How to setup non-interactive tests in DialCrowd Admin
 tags: [non-interactive-test, dialcrowd admin]
 ---
