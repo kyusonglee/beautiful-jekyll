@@ -5,7 +5,7 @@ subtitle: How to setup non-interactive tests in DialCrowd Admin
 tags: [sequence labeling, crowdsourcing, name entity recognition]
 ---
 
--  **General Descriptions** The worker selects a specific word or phrase in a sentence or paragraph and then answers a predefined multiple choice question:  1) named entity tagging on the given text 2) a task of mapping each mention in context to one or more characters in a knowledge base.
+-  **Goals and Expectations:** The goal of this crowdsourcing feature is to categorize different types of entities. After entering the website of sequence labeling, the worker will be asked to select specific words or a phrase in a sentence and choose the corresponding type of entity that phrase can be categorized into to using the buttons below the sentence. If the worker is not sure which type of entity it belongs to, choose "other".
 
 # Sequence Labeling
 ![Image](../img/noninteractive1.png)
@@ -21,7 +21,7 @@ Figure 1 shows an overall process of creating a project of sequence labeling usi
 **Figure 2**
 
 ## (1) Basic information 
-In order to setup the category classification, requesters fill out the following information:
+In order to setup a new sequence labeling project, requesters need to fill out the following information:
 ```
 ex)
 - Generic Introduction: Please select one of dialog acts.....
@@ -33,8 +33,7 @@ The above example indicates that 5 sentences will be shown to workers per page. 
 
 
 ## (2) Upload your data
-Format of Category Classification
-The foramt of category classification is just sentences splited by newline (\n)
+The data can be uploaded by uploading a .txt file that contains the sentences for the workers to analyze using sequence labeling.
 ```
 Has onihime vs been made into an anime
 What percent of 25 is 23
@@ -51,7 +50,7 @@ These exmaples will be shown in DialCrowd Workers.
 
 ## (4) Save your project
 ## (5) Test and deploy
-You can download the format for uploading your data. You can preview the DialCrowd Worker's website. 
+You can download the format for uploading your data. You can preview the DialCrowd Worker's website.
 
 
 
