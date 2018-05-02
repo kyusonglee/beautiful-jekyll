@@ -2,23 +2,20 @@
 layout: post
 title: Sequence Labeling
 subtitle: How to setup non-interactive tests in DialCrowd Admin
-tags: [non-interactive-test, dialcrowd admin]
+tags: [sequence labeling, crowdsourcing, name entity recognition]
 ---
 
-We have categorized non-interactive tests into four subcategories: category classification, sequence labeling, A/B tests, and Likert scale. We Currently only support "category classification".
-- **Category classification:** a requester provides a set of labels. The worker selects one of the labels on the given dialog or sentences. 1) select one of these categories for each dialog (e.g., too short, multi task, task complete out of scope, or task incomplete) 2) asked a binary question: Is any part of the response to this quote sarcastic? 3)  ask workers to decide whether, given the first one or two utterances of context, the shown continuation is the actual follow-up utterance in the original dialogue or a random response.
--  **Sequence labeling:** the worker selects a specific word or phrase in a sentence or paragraph and then answers a predefined multiple choice question:  1) named entity tagging on the given text 2) a task of mapping each mention in context to one or more characters in a knowledge base.
-- **A/B tests:** The worker selects the candidate amongst several that are proposed. (e.g., “given the context and the system output for the baseline and the context-aware system, and they were asked to pick the variant that sounds more natural”, “select the best response among $n$ candidate responses”) 
-- **Likert scale:**  a worker assigns a rating to a given dialog or sentence. (e.g., give a score from 1 to 5 on how good the response is given the context. score each utterance in terms of informativeness and naturalness) 
+-  **General Descriptions** The worker selects a specific word or phrase in a sentence or paragraph and then answers a predefined multiple choice question:  1) named entity tagging on the given text 2) a task of mapping each mention in context to one or more characters in a knowledge base.
 
-# Category Classification
+# Sequence Labeling
 ![Image](../img/noninteractive1.png)
 **Figure 1**
-Figure 1 shows an overall process of creating a project using DialCrowd:
+Figure 1 shows an overall process of creating a project of sequence labeling using DialCrowd:
 
 - First, select a type of evaluation: non-interactive testing.
-- Second, click the "New Project" button and input the name of a project.
-- Third, if you successfully create the "New project", you will see your project in the table. Please click the enter (edit) icon to start. We provide several examples that you can follow.
+- Second, choose "Sequence Labeling"
+- Third, click the "New Project" button and name the new project. Please also input your name and set the password.
+- Finally, if you successfully create the "New project", you will see your project in the table. Please click the enter (edit) icon to start. We provide several examples that you can follow.
 
 ![Image](../img/noninteractive2.png)
 **Figure 2**
