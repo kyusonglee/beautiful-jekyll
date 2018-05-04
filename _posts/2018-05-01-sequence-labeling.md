@@ -34,15 +34,29 @@ The data can be uploaded by uploading a .txt file that contains the sentences fo
 
 ![Image](../img/sl-4.png)
 **Figure 4**
+
 Figure 4 shows the sentences that the requester uploads.
 
-## (3) Add Class
-You need to define class categories (e.g., inform, request, confirm, etc) and example sentences for workers.  
-These exmaples will be shown in DialCrowd Workers. 
+## (3) Add Type of Entities
+![Image](../img/sl-5.png)
+**Figure 5**
+
+Figure 5 shows how a requester can edit the types of entities that will appear in the sequence labeling page.
 
 ## (4) Save your project
+
 ## (5) Test and deploy
-You can download the format for uploading your data. You can preview the DialCrowd Worker's website.
+![Image](../img/sl-6.png)
+**Figure 6**
+
+Figure 6 shows how the requester can enter the work page.
+
+## (6) Seuqnce Labeling Page for Workers
+The below images display how the worker use sequence labeling to tag entities.
+![Image](../img/sl-7.png)
+![Image](../img/sl-8.png)
+
+After finishing the sequence labeling, workers will receive a code for his payment.
 
 
 
