@@ -8,7 +8,7 @@ tags: [sequence labeling, crowdsourcing, name entity recognition]
 -  **Goals and Expectations:** The goal of this crowdsourcing feature is to categorize different types of entities. After entering the website of sequence labeling, the worker will be asked to select specific words or a phrase in a sentence and choose the corresponding type of entity that phrase can be categorized into to using the buttons below the sentence. If the worker is not sure which type of entity it belongs to, choose "other".
 
 # Sequence Labeling
-![Image](../img/sl-1.jpg)
+![Image](../img/sl-1.png)
 **Figure 1**
 ![Image](../img/sl-2.png)
 **Figure 2**
