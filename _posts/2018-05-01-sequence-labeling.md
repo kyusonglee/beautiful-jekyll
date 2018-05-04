@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sequence Labeling
-subtitle: How to setup non-interactive tests in DialCrowd Admin
+subtitle: How to setup a new squence labeling project, a non-interactive test, in DialCrowd Admin
 tags: [sequence labeling, crowdsourcing, name entity recognition]
 ---
 
@@ -57,8 +57,3 @@ The below images display how the worker use sequence labeling to tag entities.
 ![Image](../img/sq-8.png)
 
 After finishing the sequence labeling, workers will receive a code for his payment.
-
-
-
-
-
