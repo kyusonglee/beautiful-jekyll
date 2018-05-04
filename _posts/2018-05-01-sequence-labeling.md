@@ -18,7 +18,7 @@ Figure 1 and figure 2 show an overall process of creating a project of sequence 
 - First, select a type of evaluation: non-interactive testing.
 - Second, choose "Sequence Labeling"
 - Third, click the "New Project" button and name the new project. Please also input your name and set the password.
-- Finally, if you successfully create the "New project", you will see your project in the table. Please click the enter (edit) icon to start. We will provide several examples that you can follow.
+- Finally, if the requester successfully creates the "New project", the requester will see his new project in the table. Please click the enter (edit) icon to start. We will provide a guide that you can follow.
 
 ## (1) Basic information 
 In order to setup a new sequence labeling project, requesters need to fill out the following information:
