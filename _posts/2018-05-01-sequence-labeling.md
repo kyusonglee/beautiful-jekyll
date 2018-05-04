@@ -49,7 +49,7 @@ Figure 5 shows how a requester can edit the types of entities that will appear i
 ![Image](../img/sl-6.png)
 **Figure 6**
 
-Figure 6 shows how the requester can enter the work page.
+Figure 6 shows how the requester can enter the worker's sequence labeling page to test and re-check the settings.
 
 ## (6) Seuqnce Labeling Page for Workers
 The below images display how the worker use sequence labeling to tag entities.
