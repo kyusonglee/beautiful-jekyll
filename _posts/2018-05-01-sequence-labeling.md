@@ -21,13 +21,13 @@ Figure 1 and figure 2 show an overall process of creating a project of sequence 
 - Finally, if the requester successfully creates the "New project", the requester will see his new project in the table. Please click the enter (edit) icon to start. We will provide a guide that you can follow.
 
 ## (1) Basic information 
-In order to setup a new sequence labeling project, requesters need to fill out the following information:
+In order to setup a new sequence labeling project, the requester needs to fill out the following information:
 ![Image](../img/sl-3.png)
 **Figure 3**
 
 - After creating a new project, the requesters set the settings and configurations of his project.
 - First, the requester puts down the background information and genereic instructions.
-- Then, the requester sets the amount of work for the worker. (The above example indicates that 6 sentences will be shown to each worker. Each up;oaded sentence will be worked by 10 workers.)
+- Then, the requester sets the amount of work for the worker. (The above example indicates that 6 sentences will be shown to each worker. Each uploaded sentence will be worked by 10 workers.)
 
 ## (2) Upload your data
 The data can be uploaded by uploading a .txt file that contains the sentences for the workers to analyze using sequence labeling. Separate the sentences with line change in the txt file. The place where the requester uploads the file is marked in figure 3.
