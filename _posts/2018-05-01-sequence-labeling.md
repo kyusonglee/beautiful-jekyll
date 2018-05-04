@@ -45,7 +45,7 @@ Figure 5 shows how a requester can edit the types of entities that will appear i
 
 ## (4) Save your Project
 
-Click the blue save button
+Click the blue "save" button
 
 ## (5) Test and Deploy
 ![Image](../img/sl-6.png)
