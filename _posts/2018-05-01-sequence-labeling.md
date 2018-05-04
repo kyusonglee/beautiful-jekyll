@@ -54,7 +54,7 @@ Figure 6 shows how the requester can enter the work page.
 ## (6) Seuqnce Labeling Page for Workers
 The below images display how the worker use sequence labeling to tag entities.
 ![Image](../img/sl-7.png)
-![Image](../img/sl-8.png)
+![Image](../img/sq-8.png)
 
 After finishing the sequence labeling, workers will receive a code for his payment.
 
