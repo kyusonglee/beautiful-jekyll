@@ -43,15 +43,17 @@ Figure 4 shows the sentences that the requester uploads.
 
 Figure 5 shows how a requester can edit the types of entities that will appear in the sequence labeling page.
 
-## (4) Save your project
+## (4) Save your Project
 
-## (5) Test and deploy
+Click the blue save button
+
+## (5) Test and Deploy
 ![Image](../img/sl-6.png)
 **Figure 6**
 
 Figure 6 shows how the requester can enter the worker's sequence labeling page to test and re-check the settings. (Copy and paste the url in the browser and the worker's sequence labeling page will show up.)
 
-## (6) Seuqnce Labeling Page for Workers
+## (6) Sequence Labeling Page for Workers
 The below images display how the workers use sequence labeling to tag name entities with text selection.
 ![Image](../img/sl-7.png)
 ![Image](../img/sq-8.png)
