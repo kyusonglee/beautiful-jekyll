@@ -2,7 +2,6 @@
 layout: post
 title: Payment Suggestion
 subtitle: How much do you need to pay to workers?
-tags: [non-interactive-test, dialcrowd admin]
 ---
 DialCrowd also uses timed sandbox trials to suggest the correct and respectful amount of payment for a HIT. DialCrowd Admin will suggest two numbers for this based on the following equation:
 =   (M * T) / 60 
