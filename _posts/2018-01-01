@@ -1,3 +1,14 @@
+---
+layout: post
+title: Payment Suggestion
+subtitle: How much do you need to pay to workers?
+tags: [non-interactive-test, dialcrowd admin]
+---
+DialCrowd also uses timed sandbox trials to suggest the correct and respectful amount of payment for a HIT. DialCrowd Admin will suggest two numbers for this based on the following equation:
+=   (M * T) / 60 
+where M is the hourly minimum wage in the requester’s state and, separately is a wage of $15 per hour. T is average amount of time during internal testing for 10 people. DialCrowd itself does not handle payment - requesters have to use their own accounts with the crowdsourcing website of choice. 
+
+
 |	States	|	Minimum Wages	|
 |	-----	|	-----	|
 |	Alabama	|	$7.25 	|
